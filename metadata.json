@@ -1,0 +1,9 @@
+{
+  "name": "DevCampus AI",
+  "description": "Un campus virtual de programación de próxima generación impulsado por Gemini. Cuenta con tutoría inteligente, práctica de programación por voz en vivo, generación de medios para proyectos y análisis de contenido multimodal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
